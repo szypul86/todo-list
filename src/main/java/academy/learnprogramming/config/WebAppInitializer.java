@@ -13,6 +13,7 @@ import javax.servlet.ServletRegistration;
 public class WebAppInitializer implements WebApplicationInitializer {
 
     private static final String DISPATCHER_SERVLET_NAME = "dispatcher";
+
     @Override
     public void onStartup(ServletContext servletContext) throws ServletException {
 
