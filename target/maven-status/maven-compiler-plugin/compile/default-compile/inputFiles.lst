@@ -1,5 +1,10 @@
 /home/andrzej/Udemy/todo-list/src/main/java/academy/learnprogramming/config/WebConfig.java
+/home/andrzej/Udemy/todo-list/src/main/java/academy/learnprogramming/util/ViewNames.java
+/home/andrzej/Udemy/todo-list/src/main/java/academy/learnprogramming/model/TodoItem.java
 /home/andrzej/Udemy/todo-list/src/main/java/academy/learnprogramming/service/DemoServiceImpl.java
 /home/andrzej/Udemy/todo-list/src/main/java/academy/learnprogramming/service/DemoService.java
 /home/andrzej/Udemy/todo-list/src/main/java/academy/learnprogramming/config/WebAppInitializer.java
+/home/andrzej/Udemy/todo-list/src/main/java/academy/learnprogramming/util/Mappings.java
+/home/andrzej/Udemy/todo-list/src/main/java/academy/learnprogramming/controller/TodoItemController.java
 /home/andrzej/Udemy/todo-list/src/main/java/academy/learnprogramming/controller/DemoController.java
+/home/andrzej/Udemy/todo-list/src/main/java/academy/learnprogramming/model/TodoData.java
