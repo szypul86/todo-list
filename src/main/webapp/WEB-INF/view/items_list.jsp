@@ -23,7 +23,6 @@
             <tr>
                 <th>Title</th>
                 <th>Deadline</th>
-                <th>Details</th>
                 <th>View</th>
                 <th>Edit</th>
                 <th>Delete</th>
@@ -44,7 +43,6 @@
                 <tr>
                     <td><c:out value="${item.title}"/></td>
                     <td><c:out value="${item.deadline}"/></td>
-                    <td><c:out value="${item.details}"/></td>
                     <td><a href="${viewUrl}">View</a></td>
                     <td><a href="${editUrl}">Edit</a></td>
                     <td><a href="${deleteUrl}">Delete</a></td>
